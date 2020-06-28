@@ -8,3 +8,5 @@ The goal of project is to learn hough transform for circle detection in images f
 > `python hough_transform --imagepath data/1.png`
 
 # Results
+![output](https://github.com/Devashi-Choudhary/Hough_Transform/blob/master/Results/output.jpg)
+**Note :** For more details of hough transform, go through Hough_Transform.pdf.
